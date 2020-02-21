@@ -1,6 +1,6 @@
 # Emoji Unicode Country Flags
 
-Collection of 203 Unicode country flags as CSS classes 
+Collection of 205 Unicode country flags as CSS classes 
 
 ## Use
 
