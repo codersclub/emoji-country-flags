@@ -4,13 +4,15 @@
    <meta charset="UTF-8">
    <title>205 Emoji Unicode Country Flags</title>
    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-   <link href="flags.min.css" rel="stylesheet" type="text/css" media="screen">
+   <link href="flags.css" rel="stylesheet" type="text/css" media="screen">
    <style>
-      .sp {
-         margin: 0.4em;
-         padding: 0.2em 0.5em;
-         border: 1px solid #e6e6e6;
-         display: inline-block;
+      table {
+         border: 1px solid silver;
+         border-collapse: collapse;
+      }
+      th, td {
+         border: 1px solid silver;
+         padding: 5px 1em;
       }
 
       [class^="flag-"] {
@@ -22,18 +24,30 @@
 <body>
 <h1>205 Emoji Unicode Country Flags</h1>
 <div>No image, unicode only. 5.796 Bytes CSS for all this country flags</div>
-<div class="flagbox"></div>
+<br>
+
+<table class="flagbox">
+  <tr>
+    <th>#</th>
+    <th>Code</th>
+    <th>Country</th>
+    <th>Class</th>
+    <th>Flag</th>
+  </tr>
+</table>
+
 <script>
 
     $(document).ready(function () {
 
         function showFlags() {
-            var span = '';
+            var tr, fclass;
             const flagbox = $(".flagbox");
             $.getJSON('countries.json', function (data) {
                 $.each(data, function (index) {
-                    span = '<span class="sp">'+(index+1)+' <span class="flag-' + data[index].iso.toLowerCase() + '"></span>&nbsp;<b>' + data[index].iso + '</b>: ' + data[index].country + '</span><br>';
-                    flagbox.append(span);
+                    fclass = 'flag-' + data[index].iso.toLowerCase();
+                    tr = '<tr><td>'+(index+1)+'</td><td><b>' + data[index].iso + '</b></td><td>' + data[index].country + '</td><td>' + fclass + '</td><td><span class="' + fclass + '"></span></td></tr>';
+                    flagbox.append(tr);
                 });
             });
         }
