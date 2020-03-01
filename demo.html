@@ -46,7 +46,7 @@
             $.getJSON('countries.json', function (data) {
                 $.each(data, function (index) {
                     fclass = 'flag-' + data[index].iso.toLowerCase();
-                    tr = '<tr><td>'+(index+1)+'</td><td><b>' + data[index].iso + '</b></td><td>' + data[index].country + '</td><td>' + fclass + '</td><td><span class="' + fclass + '"></span></td></tr>';
+                    tr = '<tr><td>'+(index+1)+'</td><td><b>' + data[index].iso + '</b></td><td>' + data[index].country + '</td><td>' + fclass + '</td><td><i class="' + fclass + '"></i></td></tr>';
                     flagbox.append(tr);
                 });
             });
