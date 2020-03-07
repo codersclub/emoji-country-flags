@@ -4,6 +4,10 @@
     "iso": "AF"
   },
   {
+    "country": "Åland Islands",
+    "iso": "AX"
+  },
+  {
     "country": "Albania",
     "iso": "AL"
   },
@@ -12,16 +16,24 @@
     "iso": "DZ"
   },
   {
-    "country": "Andorra",
-    "iso": "AD"
+    "country": "American Samoa",
+    "iso": "AS"
   },
   {
     "country": "Angola",
     "iso": "AO"
   },
   {
+    "country": "Anguilla",
+    "iso": "AI"
+  },
+  {
     "country": "Antigua and Barbuda",
     "iso": "AG"
+  },
+  {
+    "country": "Antarctica",
+    "iso": "AQ"
   },
   {
     "country": "Argentina",
@@ -30,6 +42,10 @@
   {
     "country": "Armenia",
     "iso": "AM"
+  },
+  {
+    "country": "Aruba",
+    "iso": "AW"
   },
   {
     "country": "Australia",
@@ -76,6 +92,10 @@
     "iso": "BJ"
   },
   {
+    "country": "Bermuda",
+    "iso": "BM"
+  },
+  {
     "country": "Bhutan",
     "iso": "BT"
   },
@@ -90,6 +110,10 @@
   {
     "country": "Botswana",
     "iso": "BW"
+  },
+  {
+    "country": "Bouvet Island",
+    "iso": "BV"
   },
   {
     "country": "Brazil",
@@ -132,8 +156,16 @@
     "iso": "CV"
   },
   {
+    "country": "Caribbean Netherlands",
+    "iso": "BQ"
+  },
+  {
     "country": "Central African Republic",
     "iso": "CF"
+  },
+  {
+    "country": "Ceuta &amp; Melilla",
+    "iso": "EA"
   },
   {
     "country": "Chad",
@@ -146,6 +178,18 @@
   {
     "country": "China",
     "iso": "CN"
+  },
+  {
+    "country": "Christmas Island",
+    "iso": "CX"
+  },
+  {
+    "country": "Clipperton Island",
+    "iso": "CP"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "iso": "CC"
   },
   {
     "country": "Colombia",
@@ -164,6 +208,10 @@
     "iso": "CD"
   },
   {
+    "country": "Cook Islands",
+    "iso": "CK"
+  },
+  {
     "country": "Costa Rica",
     "iso": "CR"
   },
@@ -180,6 +228,10 @@
     "iso": "CU"
   },
   {
+    "country": "Curaçao",
+    "iso": "CW"
+  },
+  {
     "country": "Cyprus",
     "iso": "CY"
   },
@@ -190,6 +242,10 @@
   {
     "country": "Denmark",
     "iso": "DK"
+  },
+  {
+    "country": "Diego Garcia",
+    "iso": "DG"
   },
   {
     "country": "Djibouti",
@@ -600,6 +656,10 @@
     "iso": "RW"
   },
   {
+    "country": "Saint Barthélemy",
+    "iso": "BL"
+  },
+  {
     "country": "Saint Kitts and Nevis",
     "iso": "KN"
   },
@@ -782,6 +842,10 @@
   {
     "country": "Vietnam",
     "iso": "VN"
+  },
+  {
+    "country": "Western Sahara",
+    "iso": "EH"
   },
   {
     "country": "Yemen",
