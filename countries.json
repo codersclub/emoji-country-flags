@@ -296,8 +296,20 @@
     "iso": "FI"
   },
   {
+    "country": "Falkland Islands",
+    "iso": "FK"
+  },
+  {
+    "country": "Faroe Islands",
+    "iso": "FO"
+  },
+  {
     "country": "France",
     "iso": "FR"
+  },
+  {
+    "country": "French Guiana",
+    "iso": "GF"
   },
   {
     "country": "French Polynesia",
@@ -328,20 +340,32 @@
     "iso": "GI"
   },
   {
-    "country": "Greenland",
-    "iso": "GL"
-  },
-  {
     "country": "Greece",
     "iso": "GR"
+  },
+  {
+    "country": "Greenland",
+    "iso": "GL"
   },
   {
     "country": "Grenada",
     "iso": "GD"
   },
   {
+    "country": "Guadeloupe",
+    "iso": "GP"
+  },
+  {
+    "country": "Guam",
+    "iso": "GU"
+  },
+  {
     "country": "Guatemala",
     "iso": "GT"
+  },
+  {
+    "country": "Guernsey",
+    "iso": "GG"
   },
   {
     "country": "Guinea",
@@ -730,6 +754,10 @@
   {
     "country": "South Africa",
     "iso": "ZA"
+  },
+  {
+    "country": "South Georgia &amp; South Sandwich Islands",
+    "iso": "GS"
   },
   {
     "country": "Spain",

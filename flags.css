@@ -301,8 +301,16 @@
   content: "🇫🇯";
 }
 
+.flag-fk:after {
+  content: "\1F1EB\1F1F0";
+}
+
 .flag-fm:after {
   content: "🇫🇲";
+}
+
+.flag-fo:after {
+  content: "\1F1EB\1F1F4";
 }
 
 .flag-fr:after {
@@ -325,6 +333,14 @@
   content: "🇬🇪";
 }
 
+.flag-gf:after {
+  content: "\1F1EC\1F1EB";
+}
+
+.flag-gg:after {
+  content: "\1F1EC\1F1EC";
+}
+
 .flag-gh:after {
   content: "🇬🇭";
 }
@@ -341,12 +357,24 @@
   content: "🇬🇶";
 }
 
+.flag-gp:after {
+  content: "\1F1EC\1F1F5";
+}
+
 .flag-gr:after {
   content: "🇬🇷";
 }
 
+.flag-gs:after {
+  content: "\1F1EC\1F1F8";
+}
+
 .flag-gt:after {
   content: "🇬🇹";
+}
+
+.flag-gu:after {
+  content: "\1F1EC\1F1FA";
 }
 
 .flag-gw:after {
@@ -787,6 +815,10 @@
 
 .flag-tt:after {
   content: "🇹🇹";
+}
+
+.flag-to:after {
+  content: "\1F1F9\1F1F4";
 }
 
 .flag-tv:after {
