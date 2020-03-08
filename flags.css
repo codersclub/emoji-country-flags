@@ -21,6 +21,10 @@
   content: "🇦🇬";
 }
 
+.flag-ai:after {
+  content: "\1F1E6\1F1EE";
+}
+
 .flag-al:after {
   content: "🇦🇱";
 }
@@ -33,8 +37,16 @@
   content: "🇦🇴";
 }
 
+.flag-aq:after {
+  content: "\1F1E6\1F1F6";
+}
+
 .flag-ar:after {
   content: "🇦🇷";
+}
+
+.flag-as:after {
+  content: "\1F1E6\1F1F8";
 }
 
 .flag-at:after {
@@ -43,6 +55,14 @@
 
 .flag-au:after {
   content: "🇦🇺";
+}
+
+.flag-aw:after {
+  content: "\1F1E6\1F1FC";
+}
+
+.flag-ax:after {
+  content: "\1F1E6\1F1FD";
 }
 
 .flag-az:after {
@@ -85,12 +105,24 @@
   content: "🇧🇮";
 }
 
+.flag-bl:after {
+  content: "\1F1E7\1F1F1";
+}
+
+.flag-bm:after {
+  content: "\1F1E7\1F1F2";
+}
+
 .flag-bn:after {
   content: "🇧🇳";
 }
 
 .flag-bo:after {
   content: "🇧🇴";
+}
+
+.flag-bq:after {
+  content: "\1F1E7\1F1F6";
 }
 
 .flag-br:after {
@@ -103,6 +135,10 @@
 
 .flag-bt:after {
   content: "🇧🇹";
+}
+
+.flag-bv:after {
+  content: "\1F1E7\1F1FB";
 }
 
 .flag-bw:after {
@@ -119,6 +155,10 @@
 
 .flag-ca:after {
   content: "🇨🇦";
+}
+
+.flag-cc:after {
+  content: "\1F1E8\1F1E8";
 }
 
 .flag-cd:after {
@@ -141,6 +181,10 @@
   content: "🇨🇮";
 }
 
+.flag-ck:after {
+  content: "\1F1E8\1F1F0";
+}
+
 .flag-cl:after {
   content: "🇨🇱";
 }
@@ -157,6 +201,10 @@
   content: "🇨🇴";
 }
 
+.flag-cp:after {
+  content: "\1F1E8\1F1F5";
+}
+
 .flag-cr:after {
   content: "🇨🇷";
 }
@@ -169,6 +217,14 @@
   content: "🇨🇻";
 }
 
+.flag-cw:after {
+  content: "\1F1E8\1F1FC";
+}
+
+.flag-cx:after {
+  content: "\1F1E8\1F1FD";
+}
+
 .flag-cy:after {
   content: "🇨🇾";
 }
@@ -179,6 +235,10 @@
 
 .flag-de:after {
   content: "🇩🇪";
+}
+
+.flag-dg:after {
+  content: "\1F1E9\1F1EC";
 }
 
 .flag-dj:after {
@@ -199,6 +259,10 @@
 
 .flag-dz:after {
   content: "🇩🇿";
+}
+
+.flag-ea:after {
+  content: "\1F1EA\1F1E6";
 }
 
 .flag-ec:after {
