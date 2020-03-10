@@ -120,6 +120,11 @@
     "iso": "BR"
   },
   {
+    "country": "British Indian Ocean Territory",
+    "iso": "IO"
+  },
+
+  {
     "country": "Brunei",
     "iso": "BN"
   },
@@ -140,6 +145,10 @@
     "iso": "BI"
   },
   {
+    "country": "Cayman Islands",
+    "iso": "KY"
+  },
+  {
     "country": "Cambodia",
     "iso": "KH"
   },
@@ -150,6 +159,10 @@
   {
     "country": "Canada",
     "iso": "CA"
+  },
+  {
+    "country": "Canary Islands",
+    "iso": "IC"
   },
   {
     "country": "Cape Verde",
@@ -392,6 +405,11 @@
     "iso": "VA"
   },
   {
+    "country": "Heard &amp; McDonald Islands",
+    "iso": "HM"
+  },
+
+  {
     "country": "Honduras",
     "iso": "HN"
   },
@@ -439,6 +457,11 @@
     "country": "Japan",
     "iso": "JP"
   },
+  {
+    "country": "Jersey",
+    "iso": "JE"
+  },
+
   {
     "country": "Jordan",
     "iso": "JO"
@@ -512,6 +535,11 @@
     "iso": "MK"
   },
   {
+    "country": "Macau SAR China",
+    "iso": "MO"
+  },
+
+  {
     "country": "Madagascar",
     "iso": "MG"
   },
@@ -534,6 +562,10 @@
   {
     "country": "Malta",
     "iso": "MT"
+  },
+  {
+    "country": "Isle of Man",
+    "iso": "IM"
   },
   {
     "country": "Marshall Islands",
@@ -576,6 +608,10 @@
     "iso": "ME"
   },
   {
+    "country": "Montserrat",
+    "iso": "MS"
+  },
+  {
     "country": "Morocco",
     "iso": "MA"
   },
@@ -616,6 +652,18 @@
     "iso": "NG"
   },
   {
+    "country": "Niue",
+    "iso": "NU"
+  },
+  {
+    "country": "Norfolk Island",
+    "iso": "NF"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "iso": "MP"
+  },
+  {
     "country": "Norway",
     "iso": "NO"
   },
@@ -652,6 +700,10 @@
     "iso": "PH"
   },
   {
+    "country": "Pitcairn Islands",
+    "iso": "PN"
+  },
+  {
     "country": "Poland",
     "iso": "PL"
   },
@@ -666,6 +718,10 @@
   {
     "country": "Qatar",
     "iso": "QA"
+  },
+  {
+    "country": "Réunion",
+    "iso": "RE"
   },
   {
     "country": "Romania",
@@ -694,6 +750,14 @@
   {
     "country": "Saint Lucia",
     "iso": "LC"
+  },
+  {
+    "country": "Saint Martin",
+    "iso": "MF"
+  },
+  {
+    "country": "Saint Pierre &amp; Miquelon",
+    "iso": "PM"
   },
   {
     "country": "Saint Vincent",

@@ -14,7 +14,7 @@
 }
 
 .flag-af:after {
-  content: "🇦🇫";
+  content: "\1F1E6\1F1EB";
 }
 
 .flag-ag:after {
@@ -278,7 +278,7 @@
 }
 
 .flag-eh:after {
-  content: "🇪🇭";
+  content: "\1F1EA\1F1ED";
 }
 
 .flag-er:after {
@@ -385,6 +385,10 @@
   content: "🇬🇾";
 }
 
+.flag-hm:after {
+  content: "\1F1ED\1F1F2";
+}
+
 .flag-hn:after {
   content: "🇭🇳";
 }
@@ -401,6 +405,10 @@
   content: "🇭🇺";
 }
 
+.flag-ic:after {
+  content: "\1F1EE\1F1E8";
+}
+
 .flag-id:after {
   content: "🇮🇩";
 }
@@ -413,8 +421,16 @@
   content: "🇮🇱";
 }
 
+.flag-im:after {
+  content: "\1F1EE\1F1F2";
+}
+
 .flag-in:after {
   content: "🇮🇳";
+}
+
+.flag-io:after {
+  content: "\1F1EE\1F1F4";
 }
 
 .flag-iq:after {
@@ -435,6 +451,10 @@
 
 .flag-jm:after {
   content: "🇯🇲";
+}
+
+.flag-je:after {
+  content: "\1F1EF\1F1EA"; /* Jersey */
 }
 
 .flag-jo:after {
@@ -479,6 +499,10 @@
 
 .flag-kw:after {
   content: "🇰🇼";
+}
+
+.flag-ky:after {
+  content: "\1F1F0\1F1FE";
 }
 
 .flag-kz:after {
@@ -545,6 +569,10 @@
   content: "🇲🇪";
 }
 
+.flag-mf:after {
+  content: "\1F1F2\1F1EB";
+}
+
 .flag-mg:after {
   content: "🇲🇬";
 }
@@ -569,12 +597,24 @@
   content: "🇲🇳";
 }
 
+.flag-mo:after {
+  content: "\1F1F2\1F1F4";
+}
+
+.flag-mp:after {
+  content: "\1F1F2\1F1F5";
+}
+
 .flag-mq:after {
   content: "🇲🇶";
 }
 
 .flag-mr:after {
   content: "🇲🇷";
+}
+
+.flag-ms:after {
+  content: "\1F1F2\1F1F8";
 }
 
 .flag-mt:after {
@@ -617,6 +657,10 @@
   content: "🇳🇪";
 }
 
+.flag-nf:after {
+  content: "\1F1F3\1F1EB";
+}
+
 .flag-ng:after {
   content: "🇳🇬";
 }
@@ -639,6 +683,10 @@
 
 .flag-nr:after {
   content: "🇳🇷";
+}
+
+.flag-nu:after {
+  content: "\1F1F3\1F1FA";
 }
 
 .flag-nz:after {
@@ -677,6 +725,14 @@
   content: "🇵🇱";
 }
 
+.flag-pm:after {
+  content: "\1F1F5\1F1F2";
+}
+
+.flag-pn:after {
+  content: "\1F1F5\1F1F3";
+}
+
 .flag-pr:after {
   content: "🇵🇷";
 }
@@ -699,6 +755,10 @@
 
 .flag-qa:after {
   content: "🇶🇦";
+}
+
+.flag-re:after {
+  content: "\1F1F7\1F1EA";
 }
 
 .flag-ro:after {
@@ -915,8 +975,3 @@
 .flag-hk:after {
   content: "🇭🇰"; /* Hong Kong SAR China */
 }
-
-.flag-je:after {
-  content: "🇯🇪"; /* Jersey */
-}
-
