@@ -5,6 +5,10 @@
   font-style: normal;
 }
 
+.flag-ac:after {
+  content: "\1F1E6\1F1E8";
+}
+
 .flag-ad:after {
   content: "🇦🇩";
 }
@@ -383,6 +387,10 @@
 
 .flag-gy:after {
   content: "🇬🇾";
+}
+
+.flag-hl:after {
+  content: "\1F1F8\1F1ED";
 }
 
 .flag-hm:after {
@@ -805,6 +813,10 @@
   content: "🇸🇮";
 }
 
+.flag-sj:after {
+  content: "\1F1F8\1F1EF";
+}
+
 .flag-sk:after {
   content: "🇸🇰";
 }
@@ -829,12 +841,20 @@
   content: "🇸🇷";
 }
 
+.flag-ss:after {
+  content: "\1F1F8\1F1F8";
+}
+
 .flag-st:after {
   content: "🇸🇹";
 }
 
 .flag-sv:after {
   content: "🇸🇻";
+}
+
+.flag-sx:after {
+  content: "\1F1F8\1F1FD";
 }
 
 .flag-sy:after {
@@ -845,20 +865,40 @@
   content: "🇸🇿";
 }
 
+.flag-ta:after {
+  content: "\1F1F9\1F1E6";
+}
+
+.flag-tc:after {
+  content: "\1F1F9\1F1E8";
+}
+
 .flag-td:after {
   content: "🇹🇩";
 }
 
-.flag-th:after {
-  content: "🇹🇭";
+.flag-tf:after {
+  content: "\1F1F9\1F1EB";
 }
 
 .flag-tg:after {
   content: "🇹🇬";
 }
 
+.flag-th:after {
+  content: "🇹🇭";
+}
+
 .flag-tj:after {
   content: "🇹🇯";
+}
+
+.flag-tk:after {
+  content: "\1F1F9\1F1F0";
+}
+
+.flag-tl:after {
+  content: "\1F1F9\1F1F1";
 }
 
 .flag-tm:after {
@@ -901,6 +941,10 @@
   content: "🇺🇬";
 }
 
+.flag-um:after {
+  content: "\1F1FA\1F1F2";
+}
+
 .flag-us:after {
   content: "🇺🇸";
 }
@@ -925,12 +969,24 @@
   content: "🇻🇪";
 }
 
+.flag-vg:after {
+  content: "\1F1FB\1F1EC";
+}
+
+.flag-vi:after {
+  content: "\1F1FB\1F1EE";
+}
+
 .flag-vn:after {
   content: "🇻🇳";
 }
 
 .flag-vu:after {
   content: "🇻🇺";
+}
+
+.flag-wf:after {
+  content: "\1F1FC\1F1EB";
 }
 
 .flag-ws:after {
@@ -943,6 +999,10 @@
 
 .flag-ye:after {
   content: "🇾🇪";
+}
+
+.flag-yt:after {
+  content: "\1F1FE\1F1F9";
 }
 
 .flag-za:after {

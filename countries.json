@@ -48,6 +48,10 @@
     "iso": "AW"
   },
   {
+    "country": "Ascension Island",
+    "iso": "AC"
+  },
+  {
     "country": "Australia",
     "iso": "AU"
   },
@@ -123,7 +127,10 @@
     "country": "British Indian Ocean Territory",
     "iso": "IO"
   },
-
+  {
+    "country": "British Virgin Islands",
+    "iso": "VG"
+  },
   {
     "country": "Brunei",
     "iso": "BN"
@@ -329,6 +336,10 @@
     "iso": "PF"
   },
   {
+    "country": "French Southern Territories",
+    "iso": "TF"
+  },
+  {
     "country": "Gabon",
     "iso": "GA"
   },
@@ -397,18 +408,13 @@
     "iso": "HT"
   },
   {
-    "country": "Hong Kong SAR China",
-    "iso": "HK"
-  },
-  {
-    "country": "Vatican City",
-    "iso": "VA"
-  },
-  {
     "country": "Heard &amp; McDonald Islands",
     "iso": "HM"
   },
-
+  {
+    "country": "Hong Kong SAR China",
+    "iso": "HK"
+  },
   {
     "country": "Honduras",
     "iso": "HN"
@@ -584,6 +590,10 @@
     "iso": "MU"
   },
   {
+    "country": "Mayotte",
+    "iso": "YT"
+  },
+  {
     "country": "Mexico",
     "iso": "MX"
   },
@@ -740,6 +750,10 @@
     "iso": "BL"
   },
   {
+    "country": "Saint Helena",
+    "iso": "HL"
+  },
+  {
     "country": "Saint Kitts and Nevis",
     "iso": "KN"
   },
@@ -800,6 +814,10 @@
     "iso": "SG"
   },
   {
+    "country": "Sint Maarten",
+    "iso": "SX"
+  },
+  {
     "country": "Slovakia",
     "iso": "SK"
   },
@@ -824,6 +842,10 @@
     "iso": "GS"
   },
   {
+    "country": "South Sudan",
+    "iso": "SS"
+  },
+  {
     "country": "Spain",
     "iso": "ES"
   },
@@ -838,6 +860,10 @@
   {
     "country": "Suriname",
     "iso": "SR"
+  },
+  {
+    "country": "Svalbard &amp; Jan Mayen",
+    "iso": "SJ"
   },
   {
     "country": "Swaziland",
@@ -868,8 +894,16 @@
     "iso": "TH"
   },
   {
+    "country": "Timor-Leste",
+    "iso": "TL"
+  },
+  {
     "country": "Togo",
     "iso": "TG"
+  },
+  {
+    "country": "Tokelau",
+    "iso": "TK"
   },
   {
     "country": "Tonga",
@@ -878,6 +912,10 @@
   {
     "country": "Trinidad and Tobago",
     "iso": "TT"
+  },
+  {
+    "country": "Tristan da Cunha",
+    "iso": "TA"
   },
   {
     "country": "Tunisia",
@@ -890,6 +928,10 @@
   {
     "country": "Turkmenistan",
     "iso": "TM"
+  },
+  {
+    "country": "Turks &amp; Caicos Islands",
+    "iso": "TC"
   },
   {
     "country": "Tuvalu",
@@ -916,6 +958,14 @@
     "iso": "US"
   },
   {
+    "country": "U.S. Minor Outlying Islands",
+    "iso": "UM"
+  },
+  {
+    "country": "U.S. Virgin Islands",
+    "iso": "VI"
+  },
+  {
     "country": "Uruguay",
     "iso": "UY"
   },
@@ -928,12 +978,20 @@
     "iso": "VU"
   },
   {
+    "country": "Vatican City",
+    "iso": "VA"
+  },
+  {
     "country": "Venezuela",
     "iso": "VE"
   },
   {
     "country": "Vietnam",
     "iso": "VN"
+  },
+  {
+    "country": "Wallis &amp; Futuna",
+    "iso": "WF"
   },
   {
     "country": "Western Sahara",
