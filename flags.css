@@ -10,11 +10,11 @@
 }
 
 .flag-ad:after {
-  content: "🇦🇩";
+  content: "\1F1E6\1F1E9";
 }
 
 .flag-ae:after {
-  content: "🇦🇪";
+  content: "\1F1E6\1F1EA";
 }
 
 .flag-af:after {
@@ -22,7 +22,7 @@
 }
 
 .flag-ag:after {
-  content: "🇦🇬";
+  content: "\1F1E6\1F1EC";
 }
 
 .flag-ai:after {
@@ -30,15 +30,15 @@
 }
 
 .flag-al:after {
-  content: "🇦🇱";
+  content: "\1F1E6\1F1F1";
 }
 
 .flag-am:after {
-  content: "🇦🇲";
+  content: "\1F1E6\1F1F2";
 }
 
 .flag-ao:after {
-  content: "🇦🇴";
+  content: "\1F1E6\1F1F4";
 }
 
 .flag-aq:after {
@@ -46,7 +46,7 @@
 }
 
 .flag-ar:after {
-  content: "🇦🇷";
+  content: "\1F1E6\1F1F7";
 }
 
 .flag-as:after {
@@ -54,11 +54,11 @@
 }
 
 .flag-at:after {
-  content: "🇦🇹";
+  content: "\1F1E6\1F1F9";
 }
 
 .flag-au:after {
-  content: "🇦🇺";
+  content: "\1F1E6\1F1FA";
 }
 
 .flag-aw:after {
@@ -70,43 +70,43 @@
 }
 
 .flag-az:after {
-  content: "🇦🇿";
+  content: "\1F1E6\1F1FF";
 }
 
 .flag-ba:after {
-  content: "🇧🇦";
+  content: "\1F1E7\1F1E6";
 }
 
 .flag-bb:after {
-  content: "🇧🇧";
+  content: "\1F1E7\1F1E7";
 }
 
 .flag-bd:after {
-  content: "🇧🇩";
+  content: "\1F1E7\1F1E9";
 }
 
 .flag-be:after {
-  content: "🇧🇪";
+  content: "\1F1E7\1F1EA";
 }
 
 .flag-bf:after {
-  content: "🇧🇫";
-}
-
-.flag-bj:after {
-  content: "🇧🇯";
+  content: "\1F1E7\1F1EB";
 }
 
 .flag-bg:after {
-  content: "🇧🇬";
+  content: "\1F1E7\1F1EC";
 }
 
 .flag-bh:after {
-  content: "🇧🇭";
+  content: "\1F1E7\1F1ED";
 }
 
 .flag-bi:after {
-  content: "🇧🇮";
+  content: "\1F1E7\1F1EE";
+}
+
+.flag-bj:after {
+  content: "\1F1E7\1F1EF";
 }
 
 .flag-bl:after {
@@ -118,11 +118,11 @@
 }
 
 .flag-bn:after {
-  content: "🇧🇳";
+  content: "\1F1E7\1F1F3";
 }
 
 .flag-bo:after {
-  content: "🇧🇴";
+  content: "\1F1E7\1F1F4";
 }
 
 .flag-bq:after {
@@ -130,15 +130,15 @@
 }
 
 .flag-br:after {
-  content: "🇧🇷";
+  content: "\1F1E7\1F1F7";
 }
 
 .flag-bs:after {
-  content: "🇧🇸";
+  content: "\1F1E7\1F1F8";
 }
 
 .flag-bt:after {
-  content: "🇧🇹";
+  content: "\1F1E7\1F1F9";
 }
 
 .flag-bv:after {
@@ -146,19 +146,19 @@
 }
 
 .flag-bw:after {
-  content: "🇧🇼";
+  content: "\1F1E7\1F1FC";
 }
 
 .flag-by:after {
-  content: "🇧🇾";
+  content: "\1F1E7\1F1FE";
 }
 
 .flag-bz:after {
-  content: "🇧🇿";
+  content: "\1F1E7\1F1FF";
 }
 
 .flag-ca:after {
-  content: "🇨🇦";
+  content: "\1F1E8\1F1E6";
 }
 
 .flag-cc:after {
@@ -166,23 +166,23 @@
 }
 
 .flag-cd:after {
-  content: "🇨🇩";
-}
-
-.flag-ch:after {
-  content: "🇨🇭";
+  content: "\1F1E8\1F1E9";
 }
 
 .flag-cf:after {
-  content: "🇨🇫";
+  content: "\1F1E8\1F1EB";
 }
 
 .flag-cg:after {
-  content: "🇨🇬";
+  content: "\1F1E8\1F1EC";
+}
+
+.flag-ch:after {
+  content: "\1F1E8\1F1ED";
 }
 
 .flag-ci:after {
-  content: "🇨🇮";
+  content: "\1F1E8\1F1EE";
 }
 
 .flag-ck:after {
@@ -190,19 +190,19 @@
 }
 
 .flag-cl:after {
-  content: "🇨🇱";
+  content: "\1F1E8\1F1F1";
 }
 
 .flag-cm:after {
-  content: "🇨🇲";
+  content: "\1F1E8\1F1F2";
 }
 
 .flag-cn:after {
-  content: "🇨🇳";
+  content: "\1F1E8\1F1F3";
 }
 
 .flag-co:after {
-  content: "🇨🇴";
+  content: "\1F1E8\1F1F4";
 }
 
 .flag-cp:after {
@@ -210,15 +210,15 @@
 }
 
 .flag-cr:after {
-  content: "🇨🇷";
+  content: "\1F1E8\1F1F7";
 }
 
 .flag-cu:after {
-  content: "🇨🇺";
+  content: "\1F1E8\1F1FA";
 }
 
 .flag-cv:after {
-  content: "🇨🇻";
+  content: "\1F1E8\1F1FB";
 }
 
 .flag-cw:after {
@@ -230,15 +230,15 @@
 }
 
 .flag-cy:after {
-  content: "🇨🇾";
+  content: "\1F1E8\1F1FE";
 }
 
 .flag-cz:after {
-  content: "🇨🇿";
+  content: "\1F1E8\1F1FF";
 }
 
 .flag-de:after {
-  content: "🇩🇪";
+  content: "\1F1E9\1F1EA";
 }
 
 .flag-dg:after {
@@ -246,23 +246,23 @@
 }
 
 .flag-dj:after {
-  content: "🇩🇯";
+  content: "\1F1E9\1F1EF";
 }
 
 .flag-dk:after {
-  content: "🇩🇰";
+  content: "\1F1E9\1F1F0";
 }
 
 .flag-dm:after {
-  content: "🇩🇲";
+  content: "\1F1E9\1F1F2";
 }
 
 .flag-do:after {
-  content: "🇩🇴";
+  content: "\1F1E9\1F1F4";
 }
 
 .flag-dz:after {
-  content: "🇩🇿";
+  content: "\1F1E9\1F1FF";
 }
 
 .flag-ea:after {
@@ -270,15 +270,15 @@
 }
 
 .flag-ec:after {
-  content: "🇪🇨";
+  content: "\1F1EA\1F1E8";
 }
 
 .flag-ee:after {
-  content: "🇪🇪";
+  content: "\1F1EA\1F1EA";
 }
 
 .flag-eg:after {
-  content: "🇪🇬";
+  content: "\1F1EA\1F1EC";
 }
 
 .flag-eh:after {
@@ -286,23 +286,23 @@
 }
 
 .flag-er:after {
-  content: "🇪🇷";
+  content: "\1F1EA\1F1F7";
 }
 
 .flag-es:after {
-  content: "🇪🇸";
+  content: "\1F1EA\1F1F8";
 }
 
 .flag-et:after {
-  content: "🇪🇹";
+  content: "\1F1EA\1F1F9";
 }
 
 .flag-fi:after {
-  content: "🇫🇮";
+  content: "\1F1EB\1F1EE";
 }
 
 .flag-fj:after {
-  content: "🇫🇯";
+  content: "\1F1EB\1F1EF";
 }
 
 .flag-fk:after {
@@ -310,7 +310,7 @@
 }
 
 .flag-fm:after {
-  content: "🇫🇲";
+  content: "\1F1EB\1F1F2";
 }
 
 .flag-fo:after {
@@ -318,23 +318,23 @@
 }
 
 .flag-fr:after {
-  content: "🇫🇷";
+  content: "\1F1EB\1F1F7";
 }
 
 .flag-ga:after {
-  content: "🇬🇦";
+  content: "\1F1EC\1F1E6";
 }
 
 .flag-gb:after {
-  content: "🇬🇧";
+  content: "\1F1EC\1F1E7";
 }
 
 .flag-gd:after {
-  content: "🇬🇩";
+  content: "\1F1EC\1F1E9";
 }
 
 .flag-ge:after {
-  content: "🇬🇪";
+  content: "\1F1EC\1F1EA";
 }
 
 .flag-gf:after {
@@ -346,27 +346,27 @@
 }
 
 .flag-gh:after {
-  content: "🇬🇭";
+  content: "\1F1EC\1F1ED";
 }
 
 .flag-gm:after {
-  content: "🇬🇲";
+  content: "\1F1EC\1F1F2";
 }
 
 .flag-gn:after {
-  content: "🇬🇳";
-}
-
-.flag-gq:after {
-  content: "🇬🇶";
+  content: "\1F1EC\1F1F3";
 }
 
 .flag-gp:after {
   content: "\1F1EC\1F1F5";
 }
 
+.flag-gq:after {
+  content: "\1F1EC\1F1F6";
+}
+
 .flag-gr:after {
-  content: "🇬🇷";
+  content: "\1F1EC\1F1F7";
 }
 
 .flag-gs:after {
@@ -374,7 +374,7 @@
 }
 
 .flag-gt:after {
-  content: "🇬🇹";
+  content: "\1F1EC\1F1F9";
 }
 
 .flag-gu:after {
@@ -382,11 +382,11 @@
 }
 
 .flag-gw:after {
-  content: "🇬🇼";
+  content: "\1F1EC\1F1FC";
 }
 
 .flag-gy:after {
-  content: "🇬🇾";
+  content: "\1F1EC\1F1FE";
 }
 
 .flag-hl:after {
@@ -398,19 +398,19 @@
 }
 
 .flag-hn:after {
-  content: "🇭🇳";
+  content: "\1F1ED\1F1F3";
 }
 
 .flag-hr:after {
-  content: "🇭🇷";
+  content: "\1F1ED\1F1F7";
 }
 
 .flag-ht:after {
-  content: "🇭🇹";
+  content: "\1F1ED\1F1F9";
 }
 
 .flag-hu:after {
-  content: "🇭🇺";
+  content: "\1F1ED\1F1FA";
 }
 
 .flag-ic:after {
@@ -418,15 +418,15 @@
 }
 
 .flag-id:after {
-  content: "🇮🇩";
+  content: "\1F1EE\1F1E9";
 }
 
 .flag-ie:after {
-  content: "🇮🇪";
+  content: "\1F1EE\1F1EA";
 }
 
 .flag-il:after {
-  content: "🇮🇱";
+  content: "\1F1EE\1F1F1";
 }
 
 .flag-im:after {
@@ -434,7 +434,7 @@
 }
 
 .flag-in:after {
-  content: "🇮🇳";
+  content: "\1F1EE\1F1F2";
 }
 
 .flag-io:after {
@@ -442,71 +442,71 @@
 }
 
 .flag-iq:after {
-  content: "🇮🇶";
+  content: "\1F1EE\1F1F6";
 }
 
 .flag-ir:after {
-  content: "🇮🇷";
+  content: "\1F1EE\1F1F7";
 }
 
 .flag-is:after {
-  content: "🇮🇸";
+  content: "\1F1EE\1F1F8";
 }
 
 .flag-it:after {
-  content: "🇮🇹";
-}
-
-.flag-jm:after {
-  content: "🇯🇲";
+  content: "\1F1EE\1F1F9";
 }
 
 .flag-je:after {
   content: "\1F1EF\1F1EA"; /* Jersey */
 }
 
+.flag-jm:after {
+  content: "\1F1EF\1F1F2";
+}
+
 .flag-jo:after {
-  content: "🇯🇴";
+  content: "\1F1EF\1F1F4";
 }
 
 .flag-jp:after {
-  content: "🇯🇵";
+  content: "\1F1EF\1F1F5";
 }
 
 .flag-ke:after {
-  content: "🇰🇪";
+  content: "\1F1F0\1F1EA";
 }
 
 .flag-kg:after {
-  content: "🇰🇬";
-}
-
-.flag-ki:after {
-  content: "🇰🇮";
+  content: "\1F1F0\1F1EC";
 }
 
 .flag-kh:after {
-  content: "🇰🇭";
+  content: "\1F1F0\1F1ED";
+}
+
+.flag-ki:after {
+  content: "\1F1F0\1F1EE";
 }
 
 .flag-km:after {
-  content: "🇰🇲";
+  content: "\1F1F0\1F1F2";
 }
 
 .flag-kn:after {
-  content: "🇰🇳";
+  content: "\1F1F0\1F1F3";
 }
 
 .flag-kp:after {
-  content: "🇰🇵";
+  content: "\1F1F0\1F1F5";
 }
 
 .flag-kr:after {
-  content: "🇰🇷";
+  content: "\1F1F0\1F1F7";
 }
 
 .flag-kw:after {
-  content: "🇰🇼";
+  content: "\1F1F0\1F1FC";
 }
 
 .flag-ky:after {
@@ -514,67 +514,67 @@
 }
 
 .flag-kz:after {
-  content: "🇰🇿";
+  content: "\1F1F0\1F1FF";
 }
 
 .flag-la:after {
-  content: "🇱🇦";
+  content: "\1F1F1\1F1E6";
 }
 
 .flag-lb:after {
-  content: "🇱🇧";
+  content: "\1F1F1\1F1E7";
 }
 
 .flag-lc:after {
-  content: "🇱🇨";
+  content: "\1F1F1\1F1E8";
 }
 
 .flag-li:after {
-  content: "🇱🇮";
+  content: "\1F1F1\1F1EE";
 }
 
 .flag-lk:after {
-  content: "🇱🇰";
+  content: "\1F1F1\1F1F0";
 }
 
 .flag-lr:after {
-  content: "🇱🇷";
+  content: "\1F1F1\1F1F7";
 }
 
 .flag-ls:after {
-  content: "🇱🇸";
+  content: "\1F1F1\1F1F8";
 }
 
 .flag-lt:after {
-  content: "🇱🇹";
+  content: "\1F1F1\1F1F9";
 }
 
 .flag-lu:after {
-  content: "🇱🇺";
+  content: "\1F1F1\1F1FA";
 }
 
 .flag-lv:after {
-  content: "🇱🇻";
+  content: "\1F1F1\1F1FB";
 }
 
 .flag-ly:after {
-  content: "🇱🇾";
+  content: "\1F1F1\1F1FE";
 }
 
 .flag-ma:after {
-  content: "🇲🇦";
+  content: "\1F1F2\1F1E6";
 }
 
 .flag-mc:after {
-  content: "🇲🇨";
+  content: "\1F1F2\1F1E8";
 }
 
 .flag-md:after {
-  content: "🇲🇩";
+  content: "\1F1F2\1F1E9";
 }
 
 .flag-me:after {
-  content: "🇲🇪";
+  content: "\1F1F2\1F1EA";
 }
 
 .flag-mf:after {
@@ -582,31 +582,27 @@
 }
 
 .flag-mg:after {
-  content: "🇲🇬";
+  content: "\1F1F2\1F1EC";
 }
 
 .flag-mh:after {
-  content: "🇲🇭";
+  content: "\1F1F2\1F1ED";
 }
 
 .flag-mk:after {
-  content: "🇲🇰";
+  content: "\1F1F2\1F1F0";
 }
 
 .flag-ml:after {
-  content: "🇲🇱";
+  content: "\1F1F2\1F1F1";
 }
 
 .flag-mm:after {
-  content: "🇲🇲";
+  content: "\1F1F2\1F1F2";
 }
 
 .flag-mn:after {
-  content: "🇲🇳";
-}
-
-.flag-mo:after {
-  content: "\1F1F2\1F1F4";
+  content: "\1F1F2\1F1F3";
 }
 
 .flag-mp:after {
@@ -614,11 +610,11 @@
 }
 
 .flag-mq:after {
-  content: "🇲🇶";
+  content: "\1F1F2\1F1F6";
 }
 
 .flag-mr:after {
-  content: "🇲🇷";
+  content: "\1F1F2\1F1F7";
 }
 
 .flag-ms:after {
@@ -626,43 +622,43 @@
 }
 
 .flag-mt:after {
-  content: "🇲🇹";
+  content: "\1F1F2\1F1F9";
 }
 
 .flag-mu:after {
-  content: "🇲🇺";
+  content: "\1F1F2\1F1FA";
 }
 
 .flag-mv:after {
-  content: "🇲🇻";
+  content: "\1F1F2\1F1FB";
 }
 
 .flag-mw:after {
-  content: "🇲🇼";
+  content: "\1F1F2\1F1FC";
 }
 
 .flag-mx:after {
-  content: "🇲🇽";
+  content: "\1F1F2\1F1FD";
 }
 
 .flag-my:after {
-  content: "🇲🇾";
+  content: "\1F1F2\1F1FE";
 }
 
 .flag-mz:after {
-  content: "🇲🇿";
+  content: "\1F1F2\1F1FF";
 }
 
 .flag-na:after {
-  content: "🇳🇦";
+  content: "\1F1F3\1F1E6";
 }
 
 .flag-nc:after {
-  content: "🇳🇨";
+  content: "\1F1F3\1F1E8";
 }
 
 .flag-ne:after {
-  content: "🇳🇪";
+  content: "\1F1F3\1F1EA";
 }
 
 .flag-nf:after {
@@ -670,27 +666,27 @@
 }
 
 .flag-ng:after {
-  content: "🇳🇬";
+  content: "\1F1F3\1F1EC";
 }
 
 .flag-ni:after {
-  content: "🇳🇮";
+  content: "\1F1F3\1F1EE";
 }
 
 .flag-nl:after {
-  content: "🇳🇱";
+  content: "\1F1F3\1F1F1";
 }
 
 .flag-no:after {
-  content: "🇳🇴";
+  content: "\1F1F3\1F1F4";
 }
 
 .flag-np:after {
-  content: "🇳🇵";
+  content: "\1F1F3\1F1F5";
 }
 
 .flag-nr:after {
-  content: "🇳🇷";
+  content: "\1F1F3\1F1F7";
 }
 
 .flag-nu:after {
@@ -698,39 +694,39 @@
 }
 
 .flag-nz:after {
-  content: "🇳🇿";
+  content: "\1F1F3\1F1FF";
 }
 
 .flag-om:after {
-  content: "🇴🇲";
+  content: "\1F1F4\1F1F2";
 }
 
 .flag-pa:after {
-  content: "🇵🇦";
+  content: "\1F1F5\1F1E6";
 }
 
 .flag-pe:after {
-  content: "🇵🇪";
+  content: "\1F1F5\1F1EA";
 }
 
 .flag-pf:after {
-  content: "🇵🇫";
+  content: "\1F1F5\1F1EB";
 }
 
 .flag-pg:after {
-  content: "🇵🇬";
+  content: "\1F1F5\1F1EC";
 }
 
 .flag-ph:after {
-  content: "🇵🇭";
+  content: "\1F1F5\1F1ED";
 }
 
 .flag-pk:after {
-  content: "🇵🇰";
+  content: "\1F1F5\1F1F0";
 }
 
 .flag-pl:after {
-  content: "🇵🇱";
+  content: "\1F1F5\1F1F1";
 }
 
 .flag-pm:after {
@@ -742,27 +738,27 @@
 }
 
 .flag-pr:after {
-  content: "🇵🇷";
-}
-
-.flag-pt:after {
-  content: "🇵🇹";
+  content: "\1F1F5\1F1F7";
 }
 
 .flag-ps:after {
-  content: "🇵🇸";
+  content: "\1F1F5\1F1F8";
+}
+
+.flag-pt:after {
+  content: "\1F1F5\1F1F9";
 }
 
 .flag-pw:after {
-  content: "🇵🇼";
+  content: "\1F1F5\1F1FC";
 }
 
 .flag-py:after {
-  content: "🇵🇾";
+  content: "\1F1F5\1F1FE";
 }
 
 .flag-qa:after {
-  content: "🇶🇦";
+  content: "\1F1F6\1F1E6";
 }
 
 .flag-re:after {
@@ -770,47 +766,51 @@
 }
 
 .flag-ro:after {
-  content: "🇷🇴";
+  content: "\1F1F7\1F1F4";
 }
 
 .flag-rs:after {
-  content: "🇷🇸";
+  content: "\1F1F7\1F1F8";
 }
 
 .flag-ru:after {
-  content: "🇷🇺";
+  content: "\1F1F7\1F1FA";
 }
 
 .flag-rw:after {
-  content: "🇷🇼";
+  content: "\1F1F7\1F1FC";
 }
 
 .flag-sa:after {
-  content: "🇸🇦";
+  content: "\1F1F8\1F1E6";
 }
 
 .flag-sb:after {
-  content: "🇸🇧";
+  content: "\1F1F8\1F1E7";
 }
 
 .flag-sc:after {
-  content: "🇸🇨";
+  content: "\1F1F8\1F1E8";
 }
 
 .flag-sd:after {
-  content: "🇸🇩";
+  content: "\1F1F8\1F1E9";
 }
 
 .flag-se:after {
-  content: "🇸🇪";
+  content: "\1F1F8\1F1EA";
 }
 
 .flag-sg:after {
-  content: "🇸🇬";
+  content: "\1F1F8\1F1EC";
+}
+
+.flag-sh:after {
+  content: "\1F1F8\1F1ED";
 }
 
 .flag-si:after {
-  content: "🇸🇮";
+  content: "\1F1F8\1F1EE";
 }
 
 .flag-sj:after {
@@ -818,27 +818,27 @@
 }
 
 .flag-sk:after {
-  content: "🇸🇰";
+  content: "\1F1F8\1F1F0";
 }
 
 .flag-sl:after {
-  content: "🇸🇱";
+  content: "\1F1F8\1F1F1";
 }
 
 .flag-sm:after {
-  content: "🇸🇲";
+  content: "\1F1F8\1F1F2";
 }
 
 .flag-sn:after {
-  content: "🇸🇳";
+  content: "\1F1F8\1F1F3";
 }
 
 .flag-so:after {
-  content: "🇸🇴";
+  content: "\1F1F8\1F1F4";
 }
 
 .flag-sr:after {
-  content: "🇸🇷";
+  content: "\1F1F8\1F1F7";
 }
 
 .flag-ss:after {
@@ -846,11 +846,11 @@
 }
 
 .flag-st:after {
-  content: "🇸🇹";
+  content: "\1F1F8\1F1F9";
 }
 
 .flag-sv:after {
-  content: "🇸🇻";
+  content: "\1F1F8\1F1FB";
 }
 
 .flag-sx:after {
@@ -858,11 +858,11 @@
 }
 
 .flag-sy:after {
-  content: "🇸🇾";
+  content: "\1F1F8\1F1FE";
 }
 
 .flag-sz:after {
-  content: "🇸🇿";
+  content: "\1F1F8\1F1FF";
 }
 
 .flag-ta:after {
@@ -874,7 +874,7 @@
 }
 
 .flag-td:after {
-  content: "🇹🇩";
+  content: "\1F1F9\1F1E9";
 }
 
 .flag-tf:after {
@@ -882,15 +882,15 @@
 }
 
 .flag-tg:after {
-  content: "🇹🇬";
+  content: "\1F1F9\1F1EC";
 }
 
 .flag-th:after {
-  content: "🇹🇭";
+  content: "\1F1F9\1F1ED";
 }
 
 .flag-tj:after {
-  content: "🇹🇯";
+  content: "\1F1F9\1F1EF";
 }
 
 .flag-tk:after {
@@ -902,43 +902,43 @@
 }
 
 .flag-tm:after {
-  content: "🇹🇲";
+  content: "\1F1F9\1F1F2";
 }
 
 .flag-tn:after {
-  content: "🇹🇳";
-}
-
-.flag-tr:after {
-  content: "🇹🇷";
-}
-
-.flag-tt:after {
-  content: "🇹🇹";
+  content: "\1F1F9\1F1F3";
 }
 
 .flag-to:after {
   content: "\1F1F9\1F1F4";
 }
 
+.flag-tr:after {
+  content: "\1F1F9\1F1F7";
+}
+
+.flag-tt:after {
+  content: "\1F1F9\1F1F9";
+}
+
 .flag-tv:after {
-  content: "🇹🇻";
+  content: "\1F1F9\1F1FB";
 }
 
 .flag-tw:after {
-  content: "🇹🇼";
+  content: "\1F1F9\1F1FC";
 }
 
 .flag-tz:after {
-  content: "🇹🇿";
+  content: "\1F1F9\1F1FF";
 }
 
 .flag-ua:after {
-  content: "🇺🇦";
+  content: "\1F1FA\1F1E6";
 }
 
 .flag-ug:after {
-  content: "🇺🇬";
+  content: "\1F1FA\1F1EC";
 }
 
 .flag-um:after {
@@ -946,27 +946,27 @@
 }
 
 .flag-us:after {
-  content: "🇺🇸";
+  content: "\1F1FA\1F1F8";
 }
 
 .flag-uy:after {
-  content: "🇺🇾";
+  content: "\1F1FA\1F1FE";
 }
 
 .flag-uz:after {
-  content: "🇺🇿";
+  content: "\1F1FA\1F1FF";
 }
 
 .flag-va:after {
-  content: "🇻🇦";
+  content: "\1F1FB\1F1E6";
 }
 
 .flag-vc:after {
-  content: "🇻🇨";
+  content: "\1F1FB\1F1E8";
 }
 
 .flag-ve:after {
-  content: "🇻🇪";
+  content: "\1F1FB\1F1EA";
 }
 
 .flag-vg:after {
@@ -978,11 +978,11 @@
 }
 
 .flag-vn:after {
-  content: "🇻🇳";
+  content: "\1F1FB\1F1F3";
 }
 
 .flag-vu:after {
-  content: "🇻🇺";
+  content: "\1F1FB\1F1FA";
 }
 
 .flag-wf:after {
@@ -990,15 +990,15 @@
 }
 
 .flag-ws:after {
-  content: "🇼🇸";
+  content: "\1F1FC\1F1F8";
 }
 
 .flag-xk:after {
-  content: "🇽🇰";
+  content: "\1F1FD\1F1F0";
 }
 
 .flag-ye:after {
-  content: "🇾🇪";
+  content: "\1F1FE\1F1EA";
 }
 
 .flag-yt:after {
@@ -1006,32 +1006,38 @@
 }
 
 .flag-za:after {
-  content: "🇿🇦";
+  content: "\1F1FF\1F1E6";
 }
 
 .flag-zm:after {
-  content: "🇿🇲";
+  content: "\1F1FF\1F1F2";
 }
 
 .flag-zw:after {
-  content: "🇿🇼";
+  content: "\1F1FF\1F1FC";
 }
+
 /* non country */
 .flag-eu:after {
-  content: "🇪🇺";
+  content: "\1F1EA\1F1FA"; /* European Union */
 }
+
 .flag-un:after {
-  content: "🇺🇳";
+  content: "\1F1FA\1F1F3"; /* United Nations */
 }
 
 .flag-gi:after {
-  content: "🇬🇮"; /* Gibraltar */
+  content: "\1F1EC\1F1EE"; /* Gibraltar */
 }
 
 .flag-gl:after {
-  content: "🇬🇱"; /* Greenland */
+  content: "\1F1EC\1F1F1"; /* Greenland */
 }
 
 .flag-hk:after {
-  content: "🇭🇰"; /* Hong Kong SAR China */
+  content: "\1F1ED\1F1F0"; /* Hong Kong SAR China */
+}
+
+.flag-mo:after {
+  content: "\1F1F2\1F1F4"; /* Macau SAR China */
 }
