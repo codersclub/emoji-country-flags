@@ -1,35 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <meta charset="UTF-8">
-   <title>259 Emoji Unicode Country Flags</title>
-   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-   <link href="flags.css" rel="stylesheet" type="text/css" media="screen">
-   <style>
-      table {
-         border: 1px solid silver;
-         border-collapse: collapse;
-      }
-      th, td {
-         border: 1px solid silver;
-         padding: 5px 1em;
-      }
+  <meta charset="UTF-8">
+  <title>259 Emoji Unicode Country Flags</title>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+  <link href="flags.min.css" rel="stylesheet" type="text/css" media="screen">
+  <style>
+    table {
+      border: 1px solid silver;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid silver;
+      padding: 5px 1em;
+    }
 
-      [class^="flag-"] {
-         font-size: 200%;
-      }
-/** Chrominum */
-/*@media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: 0.001dpcm) {*/
-@media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) {
-  td, th {
-    background: #efe;
-  }
-}
-   </style>
+    [class^="flag-"] {
+      font-size: 200%;
+    }
+  </style>
 </head>
+
 <body>
+
 <h1>259 Emoji Unicode Country Flags</h1>
-<div>No image, unicode only. 5.796 Bytes CSS for all this country flags</div>
+
+<div>No images, only unicode and CSS.</div>
+
 <br>
 
 <table class="flagbox">
@@ -42,10 +39,11 @@
   </tr>
 </table>
 
+<br>
+<br>
+
 <script>
-
     $(document).ready(function () {
-
         function showFlags() {
             var tr, fclass;
             const flagbox = $(".flagbox");
@@ -57,10 +55,9 @@
                 });
             });
         }
-
         showFlags();
-
     });
 </script>
+
 </body>
 </html>
