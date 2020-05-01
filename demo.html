@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>259 Emoji Unicode Country Flags</title>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
   <link href="flags.min.css" rel="stylesheet" type="text/css" media="screen">
   <style>
     table {
@@ -29,7 +28,7 @@
 
 <br>
 
-<table class="flagbox">
+<table id="flagbox">
   <tr>
     <th>#</th>
     <th>Code</th>
@@ -43,20 +42,22 @@
 <br>
 
 <script>
-    $(document).ready(function () {
-        function showFlags() {
-            var tr, fclass;
-            const flagbox = $(".flagbox");
-            $.getJSON('countries.json', function (data) {
-                $.each(data, function (index) {
-                    fclass = 'flag-' + data[index].iso.toLowerCase();
-                    tr = '<tr><td>'+(index+1)+'</td><td><b>' + data[index].iso + '</b></td><td>' + data[index].country + '</td><td>' + fclass + '</td><td><i class="' + fclass + '"></i></td></tr>';
-                    flagbox.append(tr);
-                });
-            });
-        }
-        showFlags();
-    });
+window.onload = function(){
+  var tbl = document.getElementById('flagbox');
+  var tr, fclass, i=1;
+  fetch('countries.json')
+    .then(response => response.json())
+    .then(data => {
+      data.forEach(row => {
+        tr = tbl.insertRow();
+        fclass = 'flag-' + row.iso.toLowerCase();
+        tr.innerHTML = '<td>'+i+'</td><td><b>' + row.iso + '</b></td><td>' + row.country + '</td><td>' + fclass + '</td><td><i class="' + fclass + '"></i></td>';
+        tbl.append(tr);
+        i++;
+      });
+    })
+    .catch(() => alert('ERROR reading countries.json'));
+}
 </script>
 
 </body>
