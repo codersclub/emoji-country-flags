@@ -10,11 +10,12 @@ Copyright &copy; by Valery Votintsev <https://github.com/codersclub>
 Include the file flags.min.css and use the following syntax:
 
 ```
-<span class="flag-de"></span>
+<link href="flags.min.css" rel="stylesheet" type="text/css" media="screen">
+<i class="flag-de"></i>
 ```
 
 The ISO code of the country is added to the class "flag-".
-Here, "de" is added, sho "flag-de" displays the Geman flag: 🇩🇪. 
+Here, "de" is added, sho "flag-de" displays the Geman flag: ![de.png](de.png "Germany Flag").
 
 #### Advantages:
 - No graphic files are required
