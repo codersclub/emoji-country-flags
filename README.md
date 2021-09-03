@@ -2,8 +2,7 @@
 
 Collection of 259 Unicode country flags as CSS classes 
 
-Copyright &copy; by Andreas Kempf <https://github.com/AAKempf>
-
+Copyright &copy; by Andreas Kempf <https://github.com/AAKempf>  
 Copyright &copy; by Valery Votintsev <https://github.com/codersclub>
 
 ## Use
@@ -19,20 +18,24 @@ Here, "de" is added, sho "flag-de" displays the Geman flag: 🇩🇪.
 
 #### Advantages:
 - No graphic files are required
-- Very fast loading time (about 9K CSS)
+- Very fast loading time (about 10K CSS)
+- Works ok both in Firefox and Chromium-base browsers
 - The flag sizes can be easily changed without loss of quality
 
 
 #### Disadvantages:
-- Only available from Windows 10 on
 - Layout changes depending on operating system
-- Does not work in Google Chrome and Chromium-based browsers :(
 - Not usable as background image
 
+## Update for Chromium based browsers
+The problem with Google Chrome an other Chromium-based browsers is solved
+using the font: "Twemoji Country Flags".
+"Twemoji Country Flags" is just a subset of “Twemoji Colr” font from Mozilla (<https://github.com/mozilla/twemoji-colr>),
+it consists of flags emoji only, so the file size is only 78kb.
 
 ### Other
 
-All flags demo: <https://codersclub.ru/flags/>
+Demo: <https://codersclub.ru/flags/>
 
 Countries and codes: countries.json
 
